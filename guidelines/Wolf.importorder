@@ -1,0 +1,8 @@
+#Organize Import Order
+#Sat Sep 20 17:45:13 CEST 2014
+5=org
+4=javax
+3=java
+2=fr
+1=com
+0=android
